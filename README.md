@@ -19,6 +19,9 @@ are the outstanding lines. So if the length of lines are small then it will have
 6. Remove overlaps with the higher voted lines 
 7. plot on the image the identified lines and circles.
 
+Note: Code here assumes the x axis is vertical and y axis - horizontal 
+But cv2 hough transforms considers x-axis as horizontal and y axis as vertical.
+
 
 
 
